@@ -2,7 +2,7 @@
 
 ## Setup  
 
-Create a `[codepen](https://codepen.io/)` account.
+Create a **[codepen.io](https://codepen.io/)** account.
 
 
 ## Instructions
@@ -10,7 +10,7 @@ Create a `[codepen](https://codepen.io/)` account.
 + **Activity 1 : [Display Property](https://codepen.io/muktek-warmups/pen/dKEroY?editors=1100)**
   (press ctrl key + click to open in new tab)
 
-  1. Do the exercise with a partner in the code-comments
+  1. Do the exercises with a partner. Exercises are in the code-comments
 
   2. Discuss:
 
@@ -20,7 +20,7 @@ Create a `[codepen](https://codepen.io/)` account.
 
 + **Activity 2 : [Color Values](https://codepen.io/muktek-warmups/pen/BVeMmz?editors=1100)**
 
-  1. Do the exercise with a partner in the code-comments
+  1. Do the exercises with a partner. Exercises are in the code-comments
 
   2. Discuss:
 
